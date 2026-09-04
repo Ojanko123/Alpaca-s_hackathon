@@ -1,5 +1,5 @@
-# Alpaca-s_hackathon
-# Options Alpha Agents — Pairs Trading Bot
+
+# Options Alpha Agents - Pairs Trading Bot
 
 An autonomous options pairs-trading agent built for the **Alpaca AI Trading
 Agents Hackathon**. It finds statistically cointegrated S&P 500 stocks,
